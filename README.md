@@ -8,7 +8,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maximilian&show_icons=true&locale=en" alt="Maximilian" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maximilian&" alt="Maximilian" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximilian&show_icons=true&locale=en&layout=compact" alt="Maximilian" /></p>
